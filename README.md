@@ -1,7 +1,7 @@
 GEEKS FOR GEEKS (GFG160)  
-This repository contains solutions to GFG160 problems, organized by Topics:
-ARRAY:
-STRING:
+<br>This repository contains solutions to GFG160 problems, organized by Topics:</br>
+<br>ARRAY:</br>
+<br>STRING:</br>
 
-A question.txt file with the problem statement. 
-A solution.cpp file with the solution.
+<br>A question.txt file with the problem statement.</br> 
+<br>A solution.cpp file with the solution.</br>
